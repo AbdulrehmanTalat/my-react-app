@@ -2,3 +2,14 @@
     color: blue;
     font-style: bold;
 }
+.txt-color{
+    background-color: yellow;
+}
+.left-side{
+    float: left;
+    background-color: cadetblue;
+}
+.right-side{
+    float: right;
+    background-color: cyan;
+}

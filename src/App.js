@@ -6,7 +6,7 @@ function App({name,age}) {
   return <div>
     my name is {name} and my age is {age -10}
     <br></br>
-    <Hello firstname={name}></Hello>
+    <Hello firstname={name} age={age}></Hello>
   </div>
 }
 
